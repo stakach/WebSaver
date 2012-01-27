@@ -1,0 +1,11 @@
+h1. HTML5 Web ScreenSaver
+
+A very simple screen saver with a single simple purpose. You specify a web page URL and, optionally, a reload time. The page will then be displayed when your machine is idle.
+
+Supports:
+* Simple motion-sensor input for screen control.
+* Offline Caching of HTML5 web applications
+* Plugins such as flash
+
+
+Forked from: http://code.google.com/p/websaver/
