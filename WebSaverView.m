@@ -122,7 +122,7 @@ static NSString * upArrow, *downArrow, *leftArrow, *rightArrow;
         
         [[webView preferences] setJavaScriptCanOpenWindowsAutomatically:NO];
         [[webView preferences] setUsesPageCache:YES];
-        [[webView preferences] setPlugInsEnabled:YES];
+        [[webView preferences] setPlugInsEnabled:NO];
         [[webView preferences] setCacheModel:WebCacheModelPrimaryWebBrowser];
         
 
